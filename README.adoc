@@ -1,6 +1,11 @@
 == STM32F030K6T6EEPROMEmulation ==
 
-This is an EEPROM Emulation library for the STM32F030K6T6 microcontroller
+This library emulates an EEPROM memory from the flash memory of the STM32F030K6T6 microcontroller. 
+It was originally written by the STMicroelectronics and was modified by me to suit the STM32F030K6T6 microcontroller.
+
+If you need more EEPROM and less programming space you may change EEPROM_START_ADDRESS in eeprom.h file to any memory page you like that suits your purpose.
+
+The main.c file helps you understand and how the library works.
 
 {empty} +
 
