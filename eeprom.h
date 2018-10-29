@@ -3,8 +3,8 @@
   * @file    eeprom.h 
   * @author  MCD Application Team
 	
-						 Modified by S. Saeed Hosseini (sayidhosseini@hotmail.com) @ 25/10/2018
-						 For STM32F030K6T6 uControllers
+	Modified by S. Saeed Hosseini (sayidhosseini@hotmail.com) @ 25/10/2018
+	For STM32F030K6T6 uControllers
 						 
   * @brief   This file contains all the functions prototypes for the EEPROM 
   *          emulation firmware library.
